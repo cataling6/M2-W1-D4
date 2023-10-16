@@ -52,7 +52,7 @@ console.log(somma)
 
 /* let name = "Catalin" */
 
-up
+
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
